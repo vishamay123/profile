@@ -61,9 +61,7 @@
 ---
 
 ## 🐍 Fun Contribution Snake
-<p align="center">
-  <img src="https://github.com/vishamay123/vishamay123/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![snake gif](https://github.com/vishamay123/profile/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
